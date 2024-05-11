@@ -3,3 +3,6 @@
 ##Group_Member:
 1. Abdullah Al Forkan
 2. Subir Balo
+
+##Project:
+Snake Game with C Programming
